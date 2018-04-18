@@ -1,0 +1,38 @@
+html{
+  font-family: "Helvetica", sans-serif;
+  text-align: center;
+}
+h1,
+h2{
+  color: DarkGreen;
+}
+h3{
+  color: SeaGreen;
+}
+.Beaches{
+}
+li{
+  display: inline-block;
+  box-sizing: border-box;
+  position: relative;
+  top: 20px;
+  width: 20%;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: lightblue;
+  padding: 10px 10px;
+}
+ol{
+  list-style-type: none;
+  padding: 0;
+  background-color: lightgreen;
+  height:80px;
+}
+a{
+  color: black;
+  font-weight: bold;
+  font-style: normal;
+}
+div{
+  display: block;
+}
